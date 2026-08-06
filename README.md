@@ -25,4 +25,4 @@ focado no momento **python** e mantendo um grande interesse em **manutenção de
  
 ## 📫 fale Comigo
 
-[LinkedIn](www.linkedin.com/in/andrey-renan-silva) | [Email](andreyrenanoficial@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/andrey-renan-silva) | [Email](mailto:andreyrenanoficial@gmail.com)
