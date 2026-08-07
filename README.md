@@ -14,7 +14,7 @@ Sigo com essa curiosidade como combustivel ate hoje, mantendo as coisas funciona
   <img src="https://raw.githubusercontent.com/AndreyRenan27/AndreyRenan27/output/snake.svg" alt="Snake animation" />
 </p>
 
-## 🛠️ Tecnologias
+## 🛠️ 𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬
 
 **Estudando ativamente:**
 - Python 🐍
@@ -25,17 +25,21 @@ Sigo com essa curiosidade como combustivel ate hoje, mantendo as coisas funciona
 - Hardware (montagem/configuração)
 - Resolução de problemas
 
-## 🎯 Foco Atual
+## 🎯 𝐅𝐨𝐜𝐨 𝐚𝐭𝐮𝐚𝐥
 
 focado no momento **python** e mantendo um grande interesse em **manutenção de sistemas** e **hardware.** 
 
-## 📁 Projetos em Destaque
-
+## 📁 𝐏𝐫𝐨𝐣𝐞𝐭𝐨𝐬 𝐞𝐦 𝐃𝐞𝐬𝐭𝐚𝐪𝐮𝐞
 - [Manhã Solidária](#) - Arrecadação de alimentos para famílias necessitadas (500kg+)
 
-## 📱 Fale Comigo
+## 📱 𝐅𝐚𝐥𝐞 𝐜𝐨𝐦𝐢𝐠𝐨
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:andreyrenanoficial@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/andrey-renan-silva)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/andreyrenan27/)
+
+<div align="center">
+<img width="735" height="245" alt="jpg" src="https://github.com/user-attachments/assets/7bb12770-424b-4479-9527-d86911cf0cb0" />
+</div> 
+
 
