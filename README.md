@@ -14,7 +14,7 @@ Sigo com essa curiosidade como combustivel ate hoje, mantendo as coisas funciona
   <img src="https://raw.githubusercontent.com/AndreyRenan27/AndreyRenan27/output/snake.svg" alt="Snake animation" />
 </p>
 
-## 🛠️ Minhas Tecnologias
+## 🛠️ Tecnologias
 
 **Estudando ativamente:**
 - Python 🐍
@@ -33,7 +33,9 @@ focado no momento **python** e mantendo um grande interesse em **manutenção de
 
 - [Manhã Solidária](#) - Arrecadação de alimentos para famílias necessitadas (500kg+)
 
-## 📫 fale Comigo
+## 📱 Fale Comigo
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:andreyrenanoficial@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/andrey-renan-silva)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/andreyrenan27/)
+
