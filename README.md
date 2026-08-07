@@ -4,6 +4,12 @@ me chamo Andrey, no momento estou cursando Análise e Desenvolvimento de Sistema
 o que fez criar um grande interesse no assunto, sempre fui curioso pra saber como as coisas funcionavam de verdade nunca me contentando com um "porque sim Andrey"
 graças a isso muitos dos meus brinquedos vieram a obito 🥀.
 Sigo com essa curiosidade como combustivel ate hoje, mantendo as coisas funcionando dessa vez. 😜
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AndreyRenan27/AndreyRenan27/output/snake.svg" alt="Snake animation" />
+</p>
+
 ## 🛠️ Minhas Tecnologias
 
 **Estudando ativamente:**
@@ -22,7 +28,7 @@ focado no momento **python** e mantendo um grande interesse em **manutenção de
 ## 📁 Projetos em Destaque
 
 - [Manhã Solidária](#) - Arrecadação de alimentos para famílias necessitadas (500kg+)
- 
+
 ## 📫 fale Comigo
 
 [LinkedIn](https://www.linkedin.com/in/andrey-renan-silva) | [Email](mailto:andreyrenanoficial@gmail.com)
