@@ -29,9 +29,6 @@ Sigo com essa curiosidade como combustivel ate hoje, mantendo as coisas funciona
 
 focado no momento **python** e mantendo um grande interesse em **manutenção de sistemas** e **hardware.** 
 
-## 📁 𝐏𝐫𝐨𝐣𝐞𝐭𝐨𝐬 𝐞𝐦 𝐃𝐞𝐬𝐭𝐚𝐪𝐮𝐞
-- [Manhã Solidária](#) - Arrecadação de alimentos para famílias necessitadas (500kg+)
-
 ## 📱 𝐅𝐚𝐥𝐞 𝐜𝐨𝐦𝐢𝐠𝐨
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:andreyrenanoficial@gmail.com)
