@@ -38,7 +38,7 @@ focado no momento **python** e mantendo um grande interesse em **manutenção de
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/andrey-renan-silva)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/andreyrenan27/)
 
-<div align="center">
+<div align="left">
 <img width="735" height="245" alt="jpg" src="https://github.com/user-attachments/assets/7bb12770-424b-4479-9527-d86911cf0cb0" />
 </div> 
 
