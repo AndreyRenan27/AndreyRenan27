@@ -35,4 +35,5 @@ focado no momento **python** e mantendo um grande interesse em **manutenção de
 
 ## 📫 fale Comigo
 
-[LinkedIn](https://www.linkedin.com/in/andrey-renan-silva) | [Email](mailto:andreyrenanoficial@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:andreyrenanoficial@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/andrey-renan-silva)
