@@ -17,7 +17,7 @@ Sigo com essa curiosidade como combustivel ate hoje, mantendo as coisas funciona
 ## 🛠️ 𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬
 
 **Estudando ativamente:**
-- Python 🐍
+- Python 
 
 **Experiência prática:**
 - Linux (usuário há 3+ anos _I use Arch btw🙋🏽‍♂️_)
