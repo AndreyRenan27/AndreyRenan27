@@ -17,7 +17,9 @@ Sigo com essa curiosidade como combustivel ate hoje, mantendo as coisas funciona
 ## 🛠️ 𝐓𝐞𝐜𝐧𝐨𝐥𝐨𝐠𝐢𝐚𝐬
 
 **Estudando ativamente:**
-- Python 
+- Css
+- JavaScript
+- html 
 
 **Experiência prática:**
 - Linux (usuário há 3+ anos _I use Arch btw🙋🏽‍♂️_)
@@ -27,7 +29,7 @@ Sigo com essa curiosidade como combustivel ate hoje, mantendo as coisas funciona
 
 ## 🎯 𝐅𝐨𝐜𝐨 𝐚𝐭𝐮𝐚𝐥
 
-focado no momento **python** e mantendo um grande interesse em **manutenção de sistemas** e **hardware.** 
+focado no momento **html, JavaScrip e css** mantendo um grande interesse em **manutenção de sistemas** e **hardware.** 
 
 ## 📱 𝐅𝐚𝐥𝐞 𝐜𝐨𝐦𝐢𝐠𝐨
 
